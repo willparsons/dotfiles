@@ -1,0 +1,5 @@
+require "plugins.vim-plug"
+require "plugins.nvim-lspconfig"
+require "plugins.cmp"
+require "plugins.better_escape"
+require "plugins.bufferline"
